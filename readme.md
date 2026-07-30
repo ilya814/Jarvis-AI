@@ -2,8 +2,6 @@
 
 A sleek, Jarvis-style AI chat interface you can host for free on GitHub Pages.
 
-![JARVIS Screenshot](https://i.imgur.com/placeholder.png)
-
 ## ✨ Features
 
 - 💬 Chat with a powerful AI (Llama 3.3 70B)
@@ -23,8 +21,6 @@ A sleek, Jarvis-style AI chat interface you can host for free on GitHub Pages.
   - `Llama 3.3 70B` — Best quality
   - `Llama 3.1 8B` — Fastest responses
   - `Mixtral 8x7B` — Great for coding
-
-## 🔒 Privacy
 
 ## 🆓 Free Tier Limits (Groq)
 
